@@ -116,7 +116,7 @@ Each role has access to dedicated dashboards and relevant functionalities.
 
 - **Course:** CS307 – System Design  
 - **Instructor:** Dr. Mahady Hasan  
-- **Institution:** Department of CSE, [Your University Name]  
+- **Institution:** Department of CSE, Independent University , Bangladesh  
 - **Term:** Spring 2025
 
 ---
@@ -127,12 +127,7 @@ This project is for academic and educational purposes only.
 
 ---
 
-## 🤝 Contributors
 
-- **[Your Name]** – Frontend, Database Design, PHP Logic  
-- **[Team Members, if any]**
-
----
 
 ## 👨‍💻 Developer
 
